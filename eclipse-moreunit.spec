@@ -4,7 +4,7 @@
 
 Name:           eclipse-moreunit
 Version:        2.4.1
-Release:        1
+Release:        3
 Summary:        An Eclipse plugin that assists with writing more unit tests
 
 Group:          Development/Java
