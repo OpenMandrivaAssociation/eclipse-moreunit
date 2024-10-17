@@ -9,7 +9,7 @@ Summary:        An Eclipse plugin that assists with writing more unit tests
 
 Group:          Development/Java
 License:        EPL
-URL:            http://moreunit.sourceforge.net
+URL:            https://moreunit.sourceforge.net
 ## sh %{name}-fetch-src.sh V_2_4_1 2.4.1
 Source0:        %{name}-%{version}.tar.xz
 Source1:        %{name}-fetch-src.sh
